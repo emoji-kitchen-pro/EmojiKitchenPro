@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("🎈 EmojiKitchen")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "EmojiKitchen.pro allows you to combine and create thousands of different emojis! You may now access Google Emoji Kitchen online. Check it out at [emojikitchen.pro](https://emojikitchen.pro)"
 )
